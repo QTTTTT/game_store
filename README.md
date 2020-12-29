@@ -60,5 +60,3 @@ pip install pymysql
 ```
 localhost:5000
 ```
-
-HomePage：
